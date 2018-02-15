@@ -1,4 +1,4 @@
-# Konduto - Data Scientist Task
+# Fraud Detection - Logistic Regression Model
 Detect fraudulent transaction based on a logistic regression model
 
 ![charts](https://user-images.githubusercontent.com/3229701/36228780-57439266-11bc-11e8-8c47-c22353e7b2d2.png)
@@ -17,7 +17,7 @@ Ipython ( Jupyter-notebook )
 Clone source code from git repo
 
 ```
-$ git clone https://github.com/fernandorovai/Konduto-FraudDetector
+$ git clone https://github.com/fernandorovai/FraudDetector-Modeling
 ```
 
 Install python dependencies via pip
@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 ## Running
 Start jupyter notebook
 ```
-$ cd Konduto-FraudDetector
+$ cd FraudDetector-Modeling
 $ jupyter-notebook Modeling.ipynb
 ```
 ## Built With
@@ -42,8 +42,3 @@ $ jupyter-notebook Modeling.ipynb
 ## Authors
 
 * **Fernando Rodrigues Jr** - *Initial work* - [Fernando](https://github.com/fernandorovai)
-
-
-## License
-
-This project is restricted to Konduta.
